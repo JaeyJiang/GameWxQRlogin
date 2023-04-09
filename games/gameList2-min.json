@@ -26,6 +26,16 @@
       "icon": ""
     },
     {
+      "name": "桃源深处有人家",
+      "py": "tyscyrj",
+      "appId": "wx57409c0ac9b0c64c",
+      "bundleId": "com.tencent.fiftyone.yc",
+      "pkg": "",
+      "cls": "",
+      "help": "",
+      "icon": "https://mmocgame.qpic.cn/wechatgame/duc2TvpEgSR53WIVgEfYglMDO8O4iaficqga0EgQichficmUAp9Ydzb0nOggezEttDMJ/0"
+    },
+    {
       "name": "英雄联盟手游",
       "py": "yxlm",
       "appId": "wx5a611599efa17e78",
